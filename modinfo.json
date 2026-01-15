@@ -1,7 +1,7 @@
 {
 	"identifier": "pa.mla.unit.addon",
 	"display_name": "Second Wave Expansion",
-	"description": "Second Wave is a expansion mod that adds new units to both MLA, Legion and Bugs. --(Enable MERGE to play with legion or other unit mods when installed!)-- New units and structures seek to expand play styles and improve factory interactions, without forcing out old ones. Still under development. See forums for more details.",
+	"description": "Second Wave is a expansion mod that adds new units to both MLA, Legion and Bugs. New units and structures seek to expand play styles and improve factory interactions, without forcing out old ones. Still under development. See forums for more details.",
 	"author": "Anonemous2, billthebluebot, Taiga, Quitch, Quildtide, Ferretmaster, Tatarstan, DrWondertainment",
 	"signature": "not yet implemented",
 	"forum": "https://forums.planetaryannihilation.com/threads/wip-casual-mla-unit-addon.73484/#post-1151453",
@@ -29,8 +29,8 @@
         ]
 	},
 	"context": "server",
-	"date": "2025-08-07",
-	"build": "124616",
+	"date": "2026-01-15",
+	"build": "124627",
 	"version": "0.14.5",
 	"dependencies": [
 		"pa.mla.unit.addon.companion"
